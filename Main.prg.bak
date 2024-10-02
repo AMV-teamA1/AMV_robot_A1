@@ -19,7 +19,7 @@ Function main
 	
 	Go XY(0, 450, 260, 90, 0, 180)
 	
-	For i = 0 To 1
+	For i = 0 To 5
 		Jump3 Here -TLZ(50), P0 -TLZ(50), P0
 		Wait 0.1
 		Jump3 Here -TLZ(50), P1 -TLZ(50), P1
