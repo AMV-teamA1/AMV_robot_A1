@@ -1,1 +1,21 @@
 # AMV_robot_A1
+**AMV Robot作業要求:**
+```
+Task 0: Simulation 10%
+Task 1: Pick and Place 20%
+Task 2: Stacking 20%
+Task 3: Integration 30% -- Tower of Hanoi (河內塔)
+```
+**分工:**
+```
+曾衍迪: 撰寫 Task 2: Stacking 程式、 AGV程式撰寫
+左其右: 撰寫 Task 1: Pick and Place 程式、 AGV程式撰寫、 AMV Robot手臂操作
+蔡明亮: AMV Robot手臂操作、 Task3程式撰寫
+童筱真: AMV Robot手臂操作、 Task3程式撰寫
+
+Robot Programming (RO)
+Electrial (EE)
+Mechanical (ME)
+```
+
+
