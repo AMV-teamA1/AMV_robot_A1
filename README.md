@@ -14,9 +14,11 @@
 - 蔡明亮: AMV Robot手臂操作、 Task3程式撰寫
 - 童筱真: AMV Robot手臂操作、 Task3程式撰寫
 
-- Robot Programming (RO)
-- Electrial (EE)
-- Mechanical (ME)
+
+
+* Robot Programming (RO)
+* Electrial (EE)
+* Mechanical (ME)
 
 **檔案架構說明:**
 
