@@ -23,6 +23,7 @@
 
 - PickPlace 資料夾: Task 1 (Pick and Place)
 - Stacking 資料夾: Task 2 (Stacking)
+- HanoTower 資料夾: Task 3 (Tower of Hanoi)
 - AVG 資料夾:
     - AGV_tracking: Nvidia AGV 循跡與避障小車
 
