@@ -1,14 +1,12 @@
-ENVT0100,LM:2024/12/08 15:48:10:481,DS:0000001434,CS:09779,MA:02-50-5C-18-EF-FB,EI:           
-sActiveChild="Main.prg"
-bMdiMaximized=False
+ENVT0100,LM:2024/12/09 13:23:51:889,DS:0000001391,CS:15875,MA:02-50-5C-18-EF-FB,EI:           
 ProgramFile1 {
 	sName="Main.prg"
-	bOpened=True
+	bOpened=False
 	nWinState=0
 	Window {
-		nLeft=6
-		nTop=19
-		nWidth=748
+		nLeft=21
+		nTop=63
+		nWidth=530
 		nHeight=465
 	}
 }
@@ -40,9 +38,9 @@ sActiveWindow="main.prg"
 CmdWindow {
 	bOpened=False
 	Window {
-		nLeft=70
-		nTop=17
-		nWidth=701
+		nLeft=89
+		nTop=36
+		nWidth=509
 		nHeight=433
 	}
 	nWinState=0
@@ -52,7 +50,7 @@ RunWindow {
 	Window {
 		nLeft=76
 		nTop=51
-		nWidth=682
+		nWidth=608
 		nHeight=383
 	}
 }
@@ -96,8 +94,8 @@ Macros {
 RobotMgr {
 	bOpened=False
 	Window {
-		nLeft=99
-		nTop=44
+		nLeft=149
+		nTop=78
 		nWidth=689
 		nHeight=448
 	}

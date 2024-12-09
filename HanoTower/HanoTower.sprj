@@ -1,10 +1,10 @@
-ENVT0100,LM:2024/12/08 15:46:48:066,DS:0000002708,CS:10212,MA:02-50-5C-18-EF-FB,EI:           
+ENVT0100,LM:2024/12/09 13:23:38:059,DS:0000002711,CS:31834,MA:02-50-5C-18-EF-FB,EI:           
 SystemProperties {
 	sRC50Version="5.4.7"
-	sGUID="82667261-f6fb-490e-81f9-497d379dac99"
+	sGUID="ea777158-c719-419f-b10e-de2d9e354c03"
 	bSimple=False
 	sCreated="2019/8/13 ¤W¤È 11:47:18"
-	sLastModified="2024/12/08 23:44:46"
+	sLastModified="2024/12/9 ¤U¤È 02:23:17"
 	bBuildComplete=False
 	bRebuildRequired=False
 	bClearControllerProject=False
@@ -28,9 +28,9 @@ UserErrorsFile {
 nProgramFileCount=2
 ProgramFile1 {
 	sName="Main.prg"
-	bCompiled=False
+	bCompiled=True
 	bStoreInController=True
-	sTimeSavedInController="2024/12/03 08:14:20"
+	sTimeSavedInController="2024/12/09 06:23:16"
 }
 ProgramFile2 {
 	sName="TCPIPdemo.prg"

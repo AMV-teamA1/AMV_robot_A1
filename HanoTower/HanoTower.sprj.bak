@@ -1,15 +1,15 @@
-ENVT0100,LM:2024/12/08 15:44:46:483,DS:0000002708,CS:10212,MA:02-50-5C-18-EF-FB,EI:           
+ENVT0100,LM:2024/12/09 13:23:37:879,DS:0000002718,CS:09157,MA:02-50-5C-18-EF-FB,EI:           
 SystemProperties {
 	sRC50Version="5.4.7"
-	sGUID="82667261-f6fb-490e-81f9-497d379dac99"
+	sGUID="ea777158-c719-419f-b10e-de2d9e354c03"
 	bSimple=False
 	sCreated="2019/8/13 上午 11:47:18"
-	sLastModified="2024/12/08 23:44:46"
+	sLastModified="2024/12/9 下午 02:23:17"
 	bBuildComplete=False
 	bRebuildRequired=False
 	bClearControllerProject=False
 	bClearGlobalPreserves=False
-	sComputerName="LAPTOP-DKGG9C9I"
+	sComputerName="I5-8400-01"
 }
 UserProperties {
 	sVersion=""
@@ -28,21 +28,21 @@ UserErrorsFile {
 nProgramFileCount=2
 ProgramFile1 {
 	sName="Main.prg"
-	bCompiled=False
+	bCompiled=True
 	bStoreInController=True
-	sTimeSavedInController="2024/12/03 08:14:20"
+	sTimeSavedInController="2024/12/9 上午 06:23:16"
 }
 ProgramFile2 {
 	sName="TCPIPdemo.prg"
 	bCompiled=True
 	bStoreInController=True
-	sTimeSavedInController="2023/08/31 06:45:20"
+	sTimeSavedInController="2023/8/31 上午 06:45:20"
 }
 nIncludeFileCount=0
 nPointFileCount=1
 PointFile1 {
 	sName="Points.pts"
-	sTimeSavedInController="2024/12/03 08:12:32"
+	sTimeSavedInController="2024/12/3 上午 08:12:32"
 }
 OperatorSettings {
 	OperatorWindow {
