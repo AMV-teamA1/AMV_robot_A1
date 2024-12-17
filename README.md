@@ -18,7 +18,7 @@
 
 - PickPlace 資料夾: Task 1 (Pick and Place)
 - Stacking 資料夾: Task 2 (Stacking)
-- HanoTower 資料夾: Task 3 (Tower of Hanoi)
+- HanoiTower 資料夾: Task 3 (Tower of Hanoi)
 - AMR 資料夾:
     - AMR_tracking: Nvidia AMR 循跡與避障小車
 
