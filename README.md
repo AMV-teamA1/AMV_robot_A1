@@ -24,3 +24,6 @@
 
 ## 照片:
 ![image](images/IMG_2695.JPG)
+
+Task 1:
+https://youtube.com/shorts/rPW8IcBnuKM
