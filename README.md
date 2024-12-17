@@ -25,13 +25,13 @@
 ## Tower of Hanoi (河內塔) 演算法機器手臂視覺化
 ### 說明
 
-河內塔是一種經典的演算法。此專案使用 EPSON 機器手臂來呈現河內塔的動作流程，將演算法概念進行物理 3D 視覺化。
+河內塔是一種經典的演算法。此專案使用 EPSON 機器手臂來呈現河內塔的動作流程，將演算法概念進行物理 3D 視覺化
 
 #### 基本規則:
 
-- 只能一次移動一個圓盤。
-- 大圓盤不能放在小圓盤之上。
-- 目標是將所有圓盤從起始柱移動到目標柱，並保持順序不變。
+- 只能一次移動一個圓盤
+- 大圓盤不能放在小圓盤之上
+- 目標是將所有圓盤從起始柱移動到目標柱，並保持順序不變
 
 ### 展示影片
 
@@ -50,6 +50,14 @@ https://youtube.com/shorts/rPW8IcBnuKM
 照片連結
 https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
 
-![image](images/IMG_2695.JPG)
+EPSON Robot Arm
+![image](images/IMG_2695.jpeg)
+
+Nvidia Jetson Nano AMR
+![image](images/IMG_2934.jpeg)
+![image](images/IMG_2935.jpeg)
+
+Task 3 Poster 合照
+![image](images/IMG_2876.png)
 
 
