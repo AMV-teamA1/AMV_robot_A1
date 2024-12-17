@@ -41,15 +41,18 @@
 我們已錄製影片展示機器手臂實現河內塔演算法的過程，請參考以下連結:
 
 - 三層河內塔 https://youtube.com/shorts/qjWXErI6N6E?feature=share
-
-[![Watch the video](https://img.youtube.com/vi/qjWXErI6N6E/0.jpg)](https://www.youtube.com/embed/qjWXErI6N6E "AMV A1 - Task3 : Honai tower - 3 層")
-
 - 五層河內塔 https://youtube.com/shorts/iUrSXxSLM_8
+  
+[![Watch the video](https://img.youtube.com/vi/qjWXErI6N6E/0.jpg)](https://www.youtube.com/embed/qjWXErI6N6E "AMV A1 - Task3 : Honai tower - 3 層")
+[![Watch the video](https://img.youtube.com/vi/iUrSXxSLM_8/0.jpg)](https://www.youtube.com/embed/iUrSXxSLM_8 "AMV A1 - Task3 : Honai tower - 5 層")
+
 
 ## 影片
 
 Task 1: Pick and Place
 https://youtube.com/shorts/rPW8IcBnuKM
+
+[![Watch the video](https://img.youtube.com/vi/rPW8IcBnuKM/0.jpg)](https://www.youtube.com/embed/rPW8IcBnuKM "AMV A1 - Task3 : Honai tower - 5 層")
 
 ## 照片
 
