@@ -33,6 +33,9 @@
 - 大圓盤不能放在小圓盤之上
 - 目標是將所有圓盤從起始柱移動到目標柱，並保持順序不變
 
+### 海報展示
+![image](images/poster.PNG)
+
 ### 展示影片
 
 我們已錄製影片展示機器手臂實現河內塔演算法的過程，請參考以下連結:
@@ -55,6 +58,8 @@ EPSON Robot Arm
 
 Nvidia Jetson Nano AMR
 ![image](images/IMG_2934.jpeg)
+
+AMR_tracking 賽道
 ![image](images/IMG_2935.jpeg)
 
 Task 3 Poster 合照
