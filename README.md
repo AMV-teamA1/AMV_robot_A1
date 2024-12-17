@@ -22,10 +22,10 @@
 - AMR 資料夾:
     - AMR_tracking: Nvidia AMR 循跡與避障小車
 
-## Tower of Hanoi (河內塔) 演算法視覺化
+## Tower of Hanoi (河內塔) 演算法機器手臂視覺化
 ### 說明
 
-河內塔是一種經典的演算法。此專案使用 EPSON 機器手臂 來呈現河內塔的動作流程，將演算法概念進行物理視覺化。
+河內塔是一種經典的演算法。此專案使用 EPSON 機器手臂來呈現河內塔的動作流程，將演算法概念進行物理 3D 視覺化。
 
 #### 基本規則:
 
@@ -37,25 +37,19 @@
 
 我們已錄製影片展示機器手臂實現河內塔演算法的過程，請參考以下連結:
 
-- 影片連結 1
-- 影片連結 2
+- 三層河內塔 https://youtube.com/shorts/qjWXErI6N6E?feature=share
+- 五層河內塔 https://youtube.com/shorts/iUrSXxSLM_8
 
 ## 影片
-
-
-## 照片
-
-![image](images/IMG_2695.JPG)
-照片連結
-https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
 
 Task 1: Pick and Place
 https://youtube.com/shorts/rPW8IcBnuKM
 
-Task 3: 三層河內塔
-https://youtube.com/shorts/qjWXErI6N6E?feature=share
+## 照片
 
-Task 3: 五層河內塔
-https://youtube.com/shorts/iUrSXxSLM_8
+照片連結
+https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
+
+![image](images/IMG_2695.JPG)
 
 
