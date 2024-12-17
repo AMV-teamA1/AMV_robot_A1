@@ -27,3 +27,11 @@
 
 Task 1:
 https://youtube.com/shorts/rPW8IcBnuKM
+
+Task 3: 三層河內塔
+https://youtube.com/shorts/qjWXErI6N6E?feature=share
+
+Task 3: 五層河內塔
+https://youtube.com/shorts/iUrSXxSLM_8
+
+
