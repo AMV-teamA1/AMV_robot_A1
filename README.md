@@ -24,8 +24,10 @@
 
 ## 照片:
 ![image](images/IMG_2695.JPG)
+照片連結
+https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
 
-Task 1:
+Task 1: Pick and Place
 https://youtube.com/shorts/rPW8IcBnuKM
 
 Task 3: 三層河內塔
