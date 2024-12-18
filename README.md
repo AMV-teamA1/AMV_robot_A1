@@ -78,3 +78,6 @@ AMV_tracking 賽道
 Task 3 Poster 合照
 ![image](images/IMG_2876.png)
 
+![image](images/LINE_ALBUM_AMR_241218_16.jpg)
+
+![image](images/LINE_ALBUM_AMR_241218_21.jpg)
