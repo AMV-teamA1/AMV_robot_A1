@@ -62,7 +62,7 @@ https://youtube.com/shorts/SysaX7k_u9U
 
 ## 照片
 
-更多照片影片連結雲端:
+更多照片影片連結:
 https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
 
 EPSON Robot Arm
