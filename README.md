@@ -1,4 +1,4 @@
-# AMV_robot_A1
+# AMV_robot_class A1
 
 ## Robot 作業要求:
 
@@ -6,12 +6,13 @@
 - Task 1: Pick and Place 20%
 - Task 2: Stacking 20%
 - Task 3: Integration 30% -- Tower of Hanoi (河內塔)
+- AMV 循跡避障小車
 
 ## 分工:
 
-- 曾衍迪: 撰寫 Task 2: Stacking 程式、 AMR 程式撰寫、 Task3 程式撰寫
-- 左其右: 撰寫 Task 1: Pick and Place 程式、 AMR 程式撰寫、Robot手臂操作
-- 蔡明亮: Robot 手臂操作、 Task3 程式撰寫
+- 曾衍迪: 撰寫 Task 2: Stacking 程式、 AMV 程式撰寫、 Task3 程式撰寫
+- 左其右: 撰寫 Task 1: Pick and Place 程式、 AMV 程式撰寫、Robot手臂操作
+- 蔡明亮: Robot 手臂操作、 Task3 程式撰寫 、 影片紀錄 、 Github
 - 童筱真: Robot 手臂操作、 Task3 程式撰寫 、 影片紀錄 、 Github
 
 ## 檔案架構說明:
@@ -68,10 +69,10 @@ https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sha
 EPSON Robot Arm
 ![image](images/IMG_2695.jpeg)
 
-Nvidia Jetson Nano AMR
+Nvidia Jetson Nano AMV
 ![image](images/IMG_2934.jpeg)
 
-AMR_tracking 賽道
+AMV_tracking 賽道
 ![image](images/IMG_2935.jpeg)
 
 Task 3 Poster 合照
