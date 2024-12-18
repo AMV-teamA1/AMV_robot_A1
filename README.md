@@ -43,20 +43,26 @@
 - 三層河內塔 https://youtube.com/shorts/qjWXErI6N6E?feature=share
 - 五層河內塔 https://youtube.com/shorts/iUrSXxSLM_8
   
-[![Watch the video](https://img.youtube.com/vi/qjWXErI6N6E/0.jpg)](https://www.youtube.com/embed/qjWXErI6N6E "AMV A1 - Task3 : Honai tower - 3 層")
-[![Watch the video](https://img.youtube.com/vi/iUrSXxSLM_8/0.jpg)](https://www.youtube.com/embed/iUrSXxSLM_8 "AMV A1 - Task3 : Honai tower - 5 層")
+[![Watch the video](https://img.youtube.com/vi/qjWXErI6N6E/0.jpg)](https://www.youtube.com/embed/qjWXErI6N6E "AMV-robot class A1 - Task3 : Honai tower - 3 層")
+[![Watch the video](https://img.youtube.com/vi/iUrSXxSLM_8/0.jpg)](https://www.youtube.com/embed/iUrSXxSLM_8 "AMV-robot class A1 - Task3 : Honai tower - 5 層")
 
 
-## 影片
+## 機器手臂操作影片展示
 
 Task 1: Pick and Place
 https://youtube.com/shorts/rPW8IcBnuKM
 
-[![Watch the video](https://img.youtube.com/vi/rPW8IcBnuKM/0.jpg)](https://www.youtube.com/embed/rPW8IcBnuKM "AMV A1 - Task3 : Honai tower - 5 層")
+[![Watch the video](https://img.youtube.com/vi/rPW8IcBnuKM/0.jpg)](https://www.youtube.com/embed/rPW8IcBnuKM "AMV-robot class A1 - Task1 : Pick and place ")
+
+## 循跡避障小車 影片展示
+AMV循跡避障小車
+https://youtube.com/shorts/SysaX7k_u9U
+
+[![Watch the video](https://img.youtube.com/vi/SysaX7k_u9U/0.jpg)](https://www.youtube.com/embed/SysaX7k_u9U "AMV-robot class A1 -  AMV循跡避障小車 :  3 圈")
 
 ## 照片
 
-照片連結
+更多照片影片連結雲端:
 https://drive.google.com/drive/folders/1-4BytwRLLqqa_SVLYE1lsAb8Z0YUsayc?usp=sharing
 
 EPSON Robot Arm
@@ -70,5 +76,4 @@ AMR_tracking 賽道
 
 Task 3 Poster 合照
 ![image](images/IMG_2876.png)
-
 
