@@ -12,7 +12,7 @@
 - 曾衍迪: 撰寫 Task 2: Stacking 程式、 AMR 程式撰寫、 Task3 程式撰寫
 - 左其右: 撰寫 Task 1: Pick and Place 程式、 AMR 程式撰寫、Robot手臂操作
 - 蔡明亮: Robot 手臂操作、 Task3 程式撰寫
-- 童筱真: Robot 手臂操作、 Task3 程式撰寫 、 影片紀錄 、 Github編輯
+- 童筱真: Robot 手臂操作、 Task3 程式撰寫 、 影片紀錄 、 Github
 
 ## 檔案架構說明:
 
